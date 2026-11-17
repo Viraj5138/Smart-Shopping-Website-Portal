@@ -71,9 +71,6 @@ Because this project uses the `fetch` API to load the product data, it must be s
 
 ---
 
-## 📸 Screenshots
-
-*(Replace these placeholder links with actual paths to your screenshots once uploaded)*
 
 | Home Page | Products Page | Cart |
 | :---: | :---: | :---: |
@@ -81,6 +78,3 @@ Because this project uses the `fetch` API to load the product data, it must be s
 
 ---
 
-<div align="center">
-  <i>Developed with ❤️ for Web Tech CCE</i>
-</div>
